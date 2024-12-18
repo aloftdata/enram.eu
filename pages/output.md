@@ -38,7 +38,7 @@ Bauer S, Chapman JW, Reynolds DR, Alves JA, Dokter AM, Menz MMH, Sapir N, Ciach 
 
 Chilson, PB, Stepanian, PM & Kelly JF. 2017. Radar Aeroecology.  In: _Aeroecology_ (ed. by P.B. Chilson, W.F. Frick, J.F. Kelly & F. Liechti), pp. 277-309. Springer International Publishing AG, Cham, Switzerland. <https://doi.org/10.1007/978-3-319-68576-2_12>
 
-Metz IC, Ellerbroek J, Muhlhausen T, Kugler D, Hoekstra JM. 2017.  Simulating the risk of bird strikes. **Seventh SESAR Innovation Days**. [pdf](/assets/documents/Metz-et-al-2017_Simulating-Bird-Strikes1.pdf)
+Metz IC, Ellerbroek J, Muhlhausen T, Kugler D, Hoekstra JM. 2017.  Simulating the risk of bird strikes. **Seventh SESAR Innovation Days**. [pdf](/assets/documents/Metz-et-al-2017_Simulating-Bird-Strikes.pdf)
 
 Michev B, Zehtindjev P, Marinov MP, Liechti F. 2017. Relationship between the intensity of nocturnal migration measured by radar and the anthropogenic mortality of birds. [Acta Zoologica Bulgaria 69: 229-237](http://www.acta-zoologica-bulgarica.eu/downloads/acta-zoologica-bulgarica/2017/69-2-229-237.pdf).
 
