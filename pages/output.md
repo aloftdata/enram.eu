@@ -24,11 +24,11 @@ Nilsson C, Dokter AM, Verlinden L, Shamoun-Baranes J, Schmid B, Desmet P, Bauer 
 
 Nilsson C, Dokter AM, Verlinden L, Shamoun-Baranes J, Schmid B, Desmet P, Bauer S, Chapman J, Alves JA, Stepanian PM, Sapir N, Wainwright C, Boos M, Górska A, Menz MHM, Rodrigues P, Leijnse H, Zehtindjiev P, Brabant R, Haase G, Weisshaupt N, Ciach M, Liechti F, 2018. Supplementary material for ‘Revealing patterns of nocturnal migration using the European weather radar network’ \[Data set\].  **Zenodo**. <http://doi.org/10.5281/zenodo.1172801>
 
-Panuccio M,  Dell’Omo G, Bogliani G, Catoni C, Sapir N. Migrating birds avoid flying through fog and low clouds. International Journal of Biometeorology. <https://doi.org/10.1007/s00484-018-01656-z>
+Panuccio M,  Dell’Omo G, Bogliani G, Catoni C, Sapir N. Migrating birds avoid flying through fog and low clouds. **International Journal of Biometeorology**. <https://doi.org/10.1007/s00484-018-01656-z>
 
 ### 2018
 
-Becciu P, Panuccio M, Catoni C, Dell’Omo G, Sapir N. Contrasting aspects of tailwinds and asymemetrical response to crosswinds in soaring migrants. Behavioural Ecology and Sociobiology 72:28. <https://doi.org/10.1007/s00265-018-2447-0>
+Becciu P, Panuccio M, Catoni C, Dell’Omo G, Sapir N. Contrasting aspects of tailwinds and asymemetrical response to crosswinds in soaring migrants. **Behavioural Ecology and Sociobiology** 72:28. <https://doi.org/10.1007/s00265-018-2447-0>
 
 ### 2017
 

@@ -1,7 +1,10 @@
 ---
 title: Organisation
 permalink: /organisation/
+toc: true
 ---
+
+## Main contacts
 
 Role | Name
 --- | ---
