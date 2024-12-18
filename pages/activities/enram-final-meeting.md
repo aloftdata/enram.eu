@@ -26,8 +26,12 @@ Map of meeting location, nearby hotels and places to grab lunch: <http://bit.ly/
 13:40 – 14:55 | Overview of the achievements of the different working groups presented by the different WG leaders (15-20min each)
 14:55 – 15:00 | Introduction to writing sessions
 15:00 – 15:30 | Coffee break
-15:30 – 16:45 | Writing/discussion sessions (team up with colleagues):<ul><li>Final ENRAM report</li><li>Papers for the special issue</li></ul>
-16:45 – 18:00 | Keynote presentations:<ul><li>Radar entomology: recent advances and where we go from here – Charlotte Wainwright</li><li>The new wave of radar ornithology – Cecilia Nilsson</li></ul>
+15:30 – 16:45 | Writing/discussion sessions (team up with colleagues):
+&nbsp; | Final ENRAM report
+&nbsp; | Papers for the special issue
+16:45 – 18:00 | Keynote presentations:
+&nbsp; | Radar entomology: recent advances and where we go from here – Charlotte Wainwright
+&nbsp; | The new wave of radar ornithology – Cecilia Nilsson
 19:30 | Dinner at "Pakhuis" (Schuurkenstraat 4, Ghent)
 
 **Tuesday, 12 September 2017**
