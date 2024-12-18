@@ -18,3 +18,6 @@ The aims of the workshop are:
 - Develop guidelines for moving visualization prototypes to production: hosting, near-real time information, extend to other countries, etc;
 - Outline of WG3 aims for the next two years?
 The agenda and minutes of the workshop are available here: [Minutes WG3 workshop Amsterdam – 2015 June 9-12](/assets/documents/Minutes-WG3-workshop-Amsterdam-2015-June-9-12.pdf).
+
+![meeting photo](/assets/images/DSC_0501_small.jpg)
+_Working break @ UvA during working group 3 meeting, June 2015_

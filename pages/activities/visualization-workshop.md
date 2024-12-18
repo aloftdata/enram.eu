@@ -24,12 +24,18 @@ Location: Science Park, University of Amsterdam
 
 More information can be found in the minutes of the workshop ([download](/assets/documents/Minutes-of-meeting-ENRAM-workshop-WG3-07022014-ES1305.pdf)). Furthermore, a brief description of the some of the visualization tools described during the workshop is available [here](/assets/documents/WG3_overviewvistools.pdf) as well as a brief description of [cartodb](/assets/documents/cartodb.pdf).
 
-![workshop image](/assets/images/IMG_4070.JPG)
+![group photo](/assets/images/IMG_4070.JPG)
 
-![workshop image](/assets/images/IMG_4062.jpg)
-![workshop image](/assets/images/IMG_4063.JPG)
-![workshop image](/assets/images/IMG_4064.JPG)
-![workshop image](/assets/images/IMG_4065.JPG)
-![workshop image](/assets/images/IMG_4066.jpg)
-![workshop image](/assets/images/IMG_4067.JPG)
-![workshop image](/assets/images/IMG_4068.jpg)
+![meeting photo](/assets/images/IMG_4062.jpg)
+
+![meeting photo](/assets/images/IMG_4063.JPG)
+
+![meeting photo](/assets/images/IMG_4064.JPG)
+
+![meeting photo](/assets/images/IMG_4065.JPG)
+
+![meeting photo](/assets/images/IMG_4066.jpg)
+
+![meeting photo](/assets/images/IMG_4067.JPG)
+
+![meeting photo](/assets/images/IMG_4068.jpg)

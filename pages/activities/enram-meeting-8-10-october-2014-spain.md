@@ -29,3 +29,6 @@ permalink: /activities/enram-meeting-8-10-october-2014-spain/
 &nbsp; | End of meeting and depart
 
 More information can be found in the minutes of the working groups and MC meetings ([download](/assets/documents/WG-MC-Combined-Minutes_Tarifa_Oct-2014.pdf)).
+
+![group photo](/assets/images/enram_tarifa2014_group_picture_small.jpg)
+_ENRAM in Tarifa (8 October 2014), Spain, with Morroco visible in the background. Photo: Johan Backman_

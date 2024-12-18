@@ -13,4 +13,7 @@ Preliminary results look very promising, and many birds were tracked by the diff
 
 The project received funding from Gyllenstienska Krapperupstiftelsen and support from ENRAM and the Center for Animal Movement Research (Canmove) at Lund University.
 
-Photo: Aron Hejdström
+![map showing kullaberg](/assets/images/kullaberg.jpg)
+
+![radar setup](/assets/images/AHP-23534_small.jpg)
+_Photo: Aron Hejdström_
