@@ -20,4 +20,4 @@ Several presentations given at the meeting are available below:
 - [Matti Leskinen](/assets/documents/Leskinen_PolarimetricInsectMigrationMeasurements.pdf)
 - [Felix Liechti](/assets/documents/Liechti_BirdRadarSignatures_compressed.pdf)
 - [Valery Melnikov](/assets/documents/Melnikov_etal_DualPolInsectParameters_compressed.pdf)
-
+- [Valery Melnikov](/assets/documents/Melnikov_etal_NewIdentificationToolDDV.pdf)
