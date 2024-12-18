@@ -47,7 +47,8 @@ Map of meeting location, nearby hotels and places to grab lunch: <http://bit.ly/
 &nbsp; | Verification of insect presence in raw data of radar wind profilers – Nadja Weisshaupt
 &nbsp; | A mathematical approach to process and analyse biological signatures in wind profiler data – Nadja Weisshaupt
 &nbsp; | Comparison of bird echoes between wind profiler systems – Nadja Weisshaupt for Mercedes Machado
-10:15 – 10:45 | Keynote presentation: [Grand challenges in animal movement research](/assets/documents/2017-ENRAM-Meeting-Ghent-SilkeNir_lowres.pdf) – Silke Bauer & Nir Sapir
+10:15 – 10:45 | Keynote presentation:
+&nbsp; | [Grand challenges in animal movement research](/assets/documents/2017-ENRAM-Meeting-Ghent-SilkeNir_lowres.pdf) – Silke Bauer & Nir Sapir
 10:45 – 10:55 | Introduction to ITN grant
 10:55 – 11:15 | Coffee break
 11:15 – 12:00 | Writing/discussion sessions (team up with colleagues):
