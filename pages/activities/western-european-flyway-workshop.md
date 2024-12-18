@@ -3,12 +3,6 @@ title: Western European Flyway workshop
 permalink: /activities/western-european-flyway-workshop/
 ---
 
-<style>
-  .table td:first-of-type {
-    width: 20%;
-  }
-</style>
-
 **16 – 18 January 2017, Sempach, Switzerland**
 
 **Monday 16 January 2017**

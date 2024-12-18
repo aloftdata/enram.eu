@@ -3,12 +3,6 @@ title: ENRAM final meeting
 permalink: /activities/enram-final-meeting/
 ---
 
-<style>
-  .table td:first-of-type {
-    width: 20%;
-  }
-</style>
-
 **Programme for final ENRAM & MC meeting**
 
 September 11-12, 2017 – STAM Gent, Belgium

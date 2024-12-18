@@ -1,0 +1,7 @@
+/*
+Tables are used for meeting agendas, with the first column being the time.
+It should have enough width to prevent wrapping.
+*/
+.table td:first-of-type {
+  width: 20%;
+}
