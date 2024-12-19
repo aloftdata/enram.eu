@@ -58,3 +58,5 @@ Map of meeting location, nearby hotels and places to grab lunch: <http://bit.ly/
 &nbsp; | Plenary discussion
 &nbsp; | Closing of the meeting
 17:00–18:00 | Drinks (in STAMCafé, at venue location)
+
+![group photo](/assets/images/finalMeeting_Ghent_cropped.jpg)

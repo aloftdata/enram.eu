@@ -28,3 +28,9 @@ permalink: /activities/western-european-flyway-workshop/
 Morning | Continue working in individual workgroups
 14:00 | Final come-together & reporting of schedule for further steps & finalizing & schedules
 16:00 | Closing and departure
+
+![meeting photo](/assets/images/DSC_1441sm.jpg)
+
+![group photo](/assets/images/DSC_1443sm.jpg)
+
+![group photo](/assets/images/DSC_1446sm.jpg)

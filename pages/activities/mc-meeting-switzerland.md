@@ -32,3 +32,19 @@ Location: Vogelwarte Sempach
 16:00 | End
 
 More information can be found in the minutes of the WG meetings ([download](/assets/documents/Minutes_CombinedWG1-4_27-02-14.pdf)) and the minutes of the MC meeting ([download](/assets/documents/ES1305-ENRAM-MC-Minutes_26-Feb-2014_Sempach-CH.pdf)).
+
+![meeting photo](/assets/images/2014-02-26-15.01.49.jpg)
+
+![meeting photo](/assets/images/2014-02-25-13.12.11.jpg)
+
+![meeting photo](/assets/images/2014-02-25-16.48.46.jpg)
+
+![meeting photo](/assets/images/2014-02-25-19.12.24.jpg)
+
+![meeting photo](/assets/images/2014-02-26-07.54.34.jpg)
+
+![meeting photo](/assets/images/2014-02-26-07.55.46.jpg)
+
+![meeting photo](/assets/images/2014-02-26-12.20.01.jpg)
+
+![meeting photo](/assets/images/2014-02-26-12.57.15.jpg)

@@ -24,3 +24,5 @@ The conference will be preceded by a 3-day training school for ENRAM members. Th
 The conference organising committee:
 
 Giacommo Del’Ommo (local organiser), Jose Alves, Silke Bauer, Nir Sapir, Judy Shamoun-Baranes
+
+![group photo](/assets/images/radar-aereoecology-Rome-2017_sm.jpg)
