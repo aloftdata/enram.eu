@@ -1,8 +1,12 @@
 ---
 layout: home
-title: Home
+title: ENRAM
+description: European Network for the Radar surveillance of Animal Movement
 permalink: /
 ---
+
+{:.alert .alert-info}
+ENRAM was a [COST action](https://www.cost.eu/actions/ES1305/) that ran from 2013 to 2017. This website is an archive for the action's information and outputs.
 
 ENRAM (European Network for the Radar surveillance of Animal Movement) is a research network whose activities were funded by the COST Programme (European Cooperation in Science and Technology) from October 2013 until October 2017. The Memorandum of Understanding can be dowloaded [here](/assets/documents/ES1305-e.pdf).
 
