@@ -1,7 +1,9 @@
 ---
-title: ENRAM meeting 24-25 February 2015, Israel
+title: WG1, WG2, WG3, WG4 & MC meeting
 permalink: /activities/enram-meeting-24-25-february-2015-israel/
 ---
+
+**24-25 February 2015, Israel**
 
 The agenda can be downloaded [here](/assets/documents/Cost-Seminar.pdf).
 

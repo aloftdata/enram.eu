@@ -1,5 +1,5 @@
 ---
-title: "WG3 workshop: 9-12 June 2015"
+title: "WG3 workshop: Visualisations: from show cases to production"
 permalink: /activities/visualisations-from-show-cases-to-production/
 ---
 

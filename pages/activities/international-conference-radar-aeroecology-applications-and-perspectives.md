@@ -1,13 +1,11 @@
 ---
-title: "International conference - Radar aeroecology: applications and perspectives"
+title: "International conference - Radar aeroecology: applications and perspectives & MC meeting"
 permalink: /activities/international-conference-radar-aeroecology-applications-and-perspectives/
 ---
 
 When: 23 – 24 February 2017
 
 Where: Rome, Italy
-
-What:
 
 ENRAM will be organizing an international conference **“Radar aeroecology: applications and perspectives”**. Please save the dates in your agenda and check the [conference website](https://conferencedetails-enram.rhcloud.com/) for conference registration and details.
 

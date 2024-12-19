@@ -6,69 +6,75 @@ toc: true
 
 ## ENRAM events
 
-##### 21–24 September 2019, Zhengzhou, China
+### 2017
 
-[2nd International Radar Aeroecology Conference](https://hysite.txlcinfo.com/)
+##### Final ENRAM & MC meeting
 
-##### 11-12 September 2017, Gent, Belgium
+[11-12 September 2017, Gent, Belgium](/activities/enram-final-meeting/)
 
-[Final ENRAM meeting and MC meeting](/activities/enram-final-meeting/)
+##### International conference - Radar aeroecology: applications and perspectives & MC meeting
 
-##### 23-24 February 2017, Rome, Italy
+[23-24 February 2017, Rome, Italy](/activities/international-conference-radar-aeroecology-applications-and-perspectives/)
 
-[1st International Conference – Radar aeroecology: applications and perspectives & MC meeting](/activities/international-conference-radar-aeroecology-applications-and-perspectives/)
+##### Western European flyway workshop
 
-##### 16–18 January 2017, Sempach, Switzerland
+[16–18 January 2017, Sempach, Switzerland](/activities/western-european-flyway-workshop/)
 
-[Western European Flyway workshop](/activities/western-european-flyway-workshop/)
+### 2016
 
-##### 19-20 April 2016, Malta
+##### WG1, WG2, WG3, WG4 & MC meeting
 
-[WG1, WG2, WG3, WG4 meeting, MC meeting](/activities/enram-meeting-19-20-april-2016-malta/)
+[19-20 April 2016, Malta](/activities/enram-meeting-19-20-april-2016-malta/)
 
-##### 11 November 2015, Hamburg, Germany
+### 2015
 
-[WG4 Meeting: Progress on publication & dissemination Plans for WG4](/activities/wg4-meeting-2015/)
+##### WG4 meeting: Progress on publication & dissemination plans for WG4
 
-##### 27-28 October 2015, De Bilt, the Netherlands
+[11 November 2015, Hamburg, Germany](/activities/wg4-meeting-2015/)
 
-[Joint WG1 & WG2 Meeting](/activities/joint-wg1-wg2-meeting-2015/)
+##### Joint WG1 & WG2 meeting
 
-##### Autumn 2015, Sweden
+[27-28 October 2015, De Bilt, the Netherlands](/activities/joint-wg1-wg2-meeting-2015/)
 
-[WG2: Large scale radar calibration campaign](/activities/wg2-cross-calibration-campaign-2015/)
+##### WG2: Large scale radar calibration campaign
 
-##### 9-12 June 2015, Amsterdam
+[Autumn 2015, Sweden](/activities/wg2-cross-calibration-campaign-2015/)
 
-[WG3 workshop: Visualisations: from show cases to production](/activities/visualisations-from-show-cases-to-production/)
+##### WG3 workshop: Visualisations: from show cases to production
 
-##### 25-27 March 2015, Amsterdam
+[9-12 June 2015, Amsterdam](/activities/visualisations-from-show-cases-to-production/)
 
-[WG3 meeting: Bird migration visualization challenge and hackathon](/activities/bird-migration-visualization-challenge/)
+##### WG3 meeting: Bird migration visualization challenge and hackathon
 
-##### 24-25 February 2015, Israel
+[25-27 March 2015, Amsterdam](/activities/bird-migration-visualization-challenge/)
 
-[WG1, WG2, WG3, WG4 meeting, MC meeting](/activities/enram-meeting-24-25-february-2015-israel/)
+##### WG1, WG2, WG3, WG4 & MC meeting
 
-##### 8-10 October 2014, Spain
+[24-25 February 2015, Israel](/activities/enram-meeting-24-25-february-2015-israel/)
 
-[WG1, WG2, WG3, WG4 meeting, MC meeting](/activities/enram-meeting-8-10-october-2014-spain/)
+### 2014
 
-##### 8-9 July 2014, Finland
+##### WG1, WG2, WG3, WG4 & MC meeting
 
-[WG1 & WG2 meeting](/activities/wg1-wg2-meeting/)
+[8-10 October 2014, Spain](/activities/enram-meeting-8-10-october-2014-spain/)
 
-##### 25-26 February 2014, Switzerland
+##### WG1 & WG2 meeting
 
-[WG1, WG2, WG3, WG4 meeting, MC meeting](/activities/mc-meeting-switzerland/)
+[8-9 July 2014, Finland](/activities/wg1-wg2-meeting/)
 
-##### 7 February 2014, The Netherlands
+##### WG1, WG2, WG3, WG4 & MC meeting
 
-[Visualization Workshop – WG3](/activities/visualization-workshop/)
+[25-26 February 2014, Switzerland](/activities/mc-meeting-switzerland/)
 
-##### 21 October 2013, Belgium
+##### WG3 meeting: Visualization workshop
 
-[MC kick-off meeting](/activities/mc-kick-off-meeting/)
+[7 February 2014, the Netherlands](/activities/visualization-workshop/)
+
+### 2013
+
+##### MC kick-off meeting
+
+[21 October 2013, Belgium](/activities/mc-kick-off-meeting/)
 
 ## Other activities
 

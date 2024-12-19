@@ -1,5 +1,5 @@
 ---
-title: ENRAM Meeting 8-10 October 2014, Spain
+title: WG1, WG2, WG3, WG4 & MC meeting
 permalink: /activities/enram-meeting-8-10-october-2014-spain/
 ---
 

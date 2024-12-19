@@ -1,5 +1,5 @@
 ---
-title: Western European Flyway workshop
+title: Western European flyway workshop
 permalink: /activities/western-european-flyway-workshop/
 ---
 

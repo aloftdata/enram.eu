@@ -1,5 +1,5 @@
 ---
-title: WG2 cross calibration campaign 2015
+title: "WG2: Large scale radar calibration campaign"
 permalink: /activities/wg2-cross-calibration-campaign-2015/
 ---
 

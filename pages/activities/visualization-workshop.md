@@ -1,5 +1,5 @@
 ---
-title: Visualization Workshop WG3 07.02.2014
+title: "WG3 meeting: Visualization workshop"
 permalink: /activities/visualization-workshop/
 ---
 

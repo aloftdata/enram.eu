@@ -1,5 +1,5 @@
 ---
-title: WG4 Meeting 2014
+title: "WG4 meeting: Progress on publication & dissemination plans for WG4"
 permalink: /activities/wg4-meeting-2015/
 ---
 

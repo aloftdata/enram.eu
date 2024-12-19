@@ -1,5 +1,5 @@
 ---
-title: ENRAM final meeting
+title: Final ENRAM & MC meeting
 permalink: /activities/enram-final-meeting/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ENRAM meeting 19-20 April 2016, Malta
+title: WG1, WG2, WG3, WG4 & MC meeting
 permalink: /activities/enram-meeting-19-20-april-2016-malta/
 ---
 

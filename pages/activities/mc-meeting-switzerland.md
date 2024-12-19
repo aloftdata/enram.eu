@@ -1,5 +1,5 @@
 ---
-title: Meeting 25-26 February, 2014
+title: WG1, WG2, WG3, WG4 & MC meeting
 permalink: /activities/mc-meeting-switzerland/
 ---
 

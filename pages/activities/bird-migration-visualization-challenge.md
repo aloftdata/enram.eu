@@ -1,5 +1,5 @@
 ---
-title: Bird migration visualization challenge
+title: "WG3 meeting: Bird migration visualization challenge and hackathon"
 permalink: /activities/bird-migration-visualization-challenge/
 ---
 

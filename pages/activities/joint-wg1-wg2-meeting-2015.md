@@ -1,5 +1,5 @@
 ---
-title: Joint WG1 & WG2 Meeting 2015
+title: Joint WG1 & WG2 meeting
 permalink: /activities/joint-wg1-wg2-meeting-2015/
 ---
 
