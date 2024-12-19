@@ -15,5 +15,10 @@ The project received funding from Gyllenstienska Krapperupstiftelsen and support
 
 ![map showing kullaberg](/assets/images/kullaberg.jpg)
 
+![radar setup](/assets/images/Photo-2015-08-17-14-28-15.jpg)
+
+![radar setup](/assets/images/Photo-2015-08-17-16-32-57_sm.jpg)
+
 ![radar setup](/assets/images/AHP-23534_small.jpg)
-_Photo: Aron Hejdström_
+
+Photos: Aron Hejdström
