@@ -9,9 +9,8 @@ social:
 
 # THEME SETTINGS
 theme: minima # Fallback theme
-remote_theme: peterdesmet/petridish@3.0
+remote_theme: peterdesmet/petridish@3.1
 posts_on_home: false
-tweets_on_home: true
 archive_permalink: false
 github_edit: false
 colors:
