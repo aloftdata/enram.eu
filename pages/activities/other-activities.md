@@ -13,7 +13,7 @@ Judy Shamoun-Baranes and Silke Bauer presented talks at the [British Ecological 
 
 ##### 13 October 2016, Rothamsted
 
-Rothamsted Research organized a public event [Insect & bird migration: revealing the mysteries of flight](http://www.rothamsted.ac.uk/events/insect-bird-migration-revealing-mysteries-flight), featuring ENRAM related talks by Jason Chapman, Judy Shamoun-Baranes and Jason Lim. Talks and an audio of the event are available online on the event page.
+Rothamsted Research organized a public event Insect & bird migration: revealing the mysteries of flight, featuring ENRAM related talks by Jason Chapman, Judy Shamoun-Baranes and Jason Lim. Talks and an audio of the event are available online on the event page.
 
 ##### 24-28 August 2015, Badajoz
 
