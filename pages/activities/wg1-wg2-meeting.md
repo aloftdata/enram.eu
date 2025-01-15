@@ -5,7 +5,7 @@ permalink: /activities/wg1-wg2-meeting/
 
 **Tuesday 8th & Wednesday 9th July, 2014, Finland**
 
-A joint workshop for WG1 and WG2 on the design of biological identification algorithms for application to weather radar data was hosted by the FMI in Helsinki, Finland on 8th and 9th of July 2014. Minutes of the meeting are available [here](/assets/ENRAM-WG12-Workshop-minutes_Helsinki-July-2014.pdf).
+A joint workshop for WG1 and WG2 on the design of biological identification algorithms for application to weather radar data was hosted by the FMI in Helsinki, Finland on 8th and 9th of July 2014. Minutes of the meeting are available [here](/assets/documents/ENRAM-WG12-Workshop-minutes_Helsinki-July-2014.pdf).
 
 Several presentations given at the meeting are available below:
 
