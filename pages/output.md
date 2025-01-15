@@ -80,7 +80,7 @@ Jason Chapman, Judy Shamoun-Baranes, Adriaan Dokter, Hidde Leijnse, Felix Liecht
 
 Shamoun-Baranes, J, Chapman J, Alves JA, Desmet P, Dokter A, van Gasteren H, Leijnse H, Verlinden L, Bauer S. 2016. Utilizing existing earth observation networks to monitor and forecast aerial movements of animals for science and society. [British Ecological Society Annual Meeting](https://www.britishecologicalsociety.org/wp-content/uploads/2016/11/BES-Programme-2016-web.pdf), Liverpool, UK. (Oral Presentation)
 
-Alves, A.J., Shamoun-Baranes, J., Desmet, P., Dokter, A., Bauer, S., Heuppop, O., Koistinen, J., Leijnse, H., Liechti, F., van Gasteren, H., van den Broeck, W., Chapman, J.W. 2015. Monitoring continent-wide aerial patterns of bird movements using weather radars. BOU Proceedings – Birds in time and space: avian tracking and remote sensing. <http://www.bou.org.uk/bouproc-net/avian-tracking/alves-etal.pdf>
+Alves, A.J., Shamoun-Baranes, J., Desmet, P., Dokter, A., Bauer, S., Heuppop, O., Koistinen, J., Leijnse, H., Liechti, F., van Gasteren, H., van den Broeck, W., Chapman, J.W. 2015. Monitoring continent-wide aerial patterns of bird movements using weather radars. BOU Proceedings – Birds in time and space: avian tracking and remote sensing. 
 
 Gürbüz, S.Z., Reynolds, D.R., Koistinen, J., Liechti, F., Leijnse, H., Shamoun-Baranes, J., Dokter, A.M., Kelly, J. & Chapman, J.W. 2015. Exploring the skies: Technological challenges in radar aeroecology. _Radar Conference (RadarCon), 2015 IEEE._ pp. 0817-0822. <https://doi.org/10.1109/RADAR.2015.7131108> (conference paper)
 
