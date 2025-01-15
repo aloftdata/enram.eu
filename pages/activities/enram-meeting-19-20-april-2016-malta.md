@@ -5,7 +5,7 @@ permalink: /activities/enram-meeting-19-20-april-2016-malta/
 
 **Agenda for ENRAM meeting, Malta, 19-20 April 2016**
 
-**Venue**: Corinthia Palace Hotel and Spa, De Paule Avenue, San Anton BZN9023, Malta <http://www.corinthia.com/hotels/malta/palace-hotel-and-spa/>
+**Venue**: Corinthia Palace Hotel and Spa, De Paule Avenue, San Anton BZN9023, Malta
 
 Download full agenda here: [Agenda for Malta meeting_Apr 2016](/assets/documents/Agenda-for-Malta-meeting_Apr-2016.pdf).
 

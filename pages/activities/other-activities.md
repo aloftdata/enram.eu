@@ -49,7 +49,7 @@ Matti Leskinen and Hidde Leijnse presented ENRAM related research at the 8th Eur
 
 ##### 18-24 August 2014, Tokyo
 
-Judy Shamoun-Baranes gave a presentation about ENRAM at the [26th International Ornithological Congress](http://ioc26.jp/) in Japan during the Radar Aeroecology symposium. Several ENRAM members were present at the conference and presented their ongoing research including Jason Chapman, Adriaan Dokter, Ommo Heuppop and Felix Liechti. The ENRAM presentation can be downloaded [here](/assets/documents/shamounbaranesetal_IOC26_small.pdf). If you would like to use this material please contact one of the authors in advance.
+Judy Shamoun-Baranes gave a presentation about ENRAM at the [26th International Ornithological Congress](https://ioc26.ornithology.jp/) in Japan during the Radar Aeroecology symposium. Several ENRAM members were present at the conference and presented their ongoing research including Jason Chapman, Adriaan Dokter, Ommo Heuppop and Felix Liechti. The ENRAM presentation can be downloaded [here](/assets/documents/shamounbaranesetal_IOC26_small.pdf). If you would like to use this material please contact one of the authors in advance.
 
 ##### 19-21 March 2014, Warsaw
 
