@@ -5,11 +5,11 @@ permalink: /activities/other-activities/
 
 ##### 15-17 January 2017, Munich
 
-Yossi Leshem gave a presentation at the [DLD Conference](http://dld-conference.com/conferences_overview) in Munich highlighing ENRAM and reaching German newsfeeds. His lecture can be seen online [here](http://events.techcast.com/dld/archiv/so-max-1020/?q=so-max-1020)
+Yossi Leshem gave a presentation at the [DLD Conference](http://dld-conference.com/conferences_overview) in Munich highlighing ENRAM and reaching German newsfeeds.
 
 ##### 11–14 December 2016, Liverpool
 
-Judy Shamoun-Baranes and Silke Bauer presented talks at the [British Ecological Society Annual Meeting](http://www.britishecologicalsociety.org/events/annual-event-2016/) in Liverpool featuring ENRAM.
+Judy Shamoun-Baranes and Silke Bauer presented talks at the [British Ecological Society Annual Meeting](https://www.britishecologicalsociety.org/wp-content/uploads/2016/11/BES-Programme-2016-web.pdf) in Liverpool featuring ENRAM.
 
 ##### 13 October 2016, Rothamsted
 
@@ -17,7 +17,7 @@ Rothamsted Research organized a public event [Insect & bird migration: revealing
 
 ##### 24-28 August 2015, Badajoz
 
-Judy Shamoun-Baranes present a plenary talk at the [European Ornithologist’s Union Conference](http://www.eou2015badajoz.com/) featuring ENRAM and together with José Alves organized a Round Table Discussion on “Radar aeroecology: unravelling population scale patterns of avian movement” which included a presentation by Cecilia Nilsson. Minutes from the round table discussion can be found [here](/assets/documents/EOU_ENRAM_RTD4_minutes.pdf).
+Judy Shamoun-Baranes present a plenary talk at the [European Ornithologist’s Union Conference](https://eounion.org/wp-content/uploads/2015/07/Badajoz2015_PROGRAMME_overview.pdf) featuring ENRAM and together with José Alves organized a Round Table Discussion on “Radar aeroecology: unravelling population scale patterns of avian movement” which included a presentation by Cecilia Nilsson. Minutes from the round table discussion can be found [here](/assets/documents/EOU_ENRAM_RTD4_minutes.pdf).
 
 ##### 28 July-1 August 2015, University of Oklahoma, Norman, United States
 
@@ -29,7 +29,7 @@ Jose Alves  presented ENRAM at the British Ornithologist’s Union annual con
 
 ##### 1-6 October 2014, Bielefeld
 
-Ommo Heupop presented a poster about ENRAM at the annual convention of the German Ornithologists’ Society in Bielefeld, 1-6 March 2014. More information about the meeting can be found [here](http://www.do-g.de/index.php?id=34&L=1).
+Ommo Heupop presented a poster about ENRAM at the annual convention of the German Ornithologists’ Society in Bielefeld, 1-6 March 2014.
 
 ##### 24-25 September 2014, Adelaide
 
@@ -37,7 +37,7 @@ Alistair Drake gave a [presentation](/assets/documents/PIRR2014-Drake-for_ENRAM-
 
 ##### 22–26 September 2014, Strasbourg
 
-Jose Alves and co-authors presented a poster about ENRAM at the [5th Bio-logging Science Symposium in](http://bls5.sciencesconf.org/) Strasbourg. Jason Chapman and Judy Shamoun-Baranes will be presenting some of their research in a [workshop](http://bls5.sciencesconf.org/resource/page/id/16) focusing on flight. Several other members of ENRAM were present at this symposium.
+Jose Alves and co-authors presented a poster about ENRAM at the [5th Bio-logging Science Symposium in](http://bls5.sciencesconf.org/) Strasbourg. Jason Chapman and Judy Shamoun-Baranes will be presenting some of their research in a [workshop](https://bls5.sciencesconf.org/resource/page/id/16.html) focusing on flight. Several other members of ENRAM were present at this symposium.
 
 ##### 17 September 2014, De Bilt
 
@@ -45,7 +45,7 @@ Judy Shamoun-Baranes gave a presentation about ENRAM at the [OPERA](http://www.e
 
 ##### 1–5 September 2014, Garmisch-Partenkirchen, Germany
 
-Matti Leskinen and Hidde Leijnse presented ENRAM related research at the 8th European Conference on Radar in Meteorology and Hydrology. Matti Leskinen’s presentation is available [here](leskinenetal_2014_APP_P08.pdf). More information about the meeting as well as submitted abstracts is available [here](http://www.pa.op.dlr.de/erad2014/index.html).
+Matti Leskinen and Hidde Leijnse presented ENRAM related research at the 8th European Conference on Radar in Meteorology and Hydrology. Matti Leskinen’s presentation is available [here](/assets/documents/leskinenetal_2014_APP_P08.pdf). More information about the meeting as well as submitted abstracts is available [here](http://www.pa.op.dlr.de/erad2014/index.html).
 
 ##### 18-24 August 2014, Tokyo
 

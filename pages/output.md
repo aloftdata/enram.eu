@@ -78,7 +78,7 @@ Shamoun-Baranes, J. 2015. New Year’s Eve fireworks cause a mass exodus of bird
 
 Jason Chapman, Judy Shamoun-Baranes, Adriaan Dokter, Hidde Leijnse, Felix Liechti, Jarmo Koistinen, Cecilia Nilsson, Hans van Gasteren, José Alves, Nir Sapir, Ommo Hüppop, Don Reynolds, and Silke Bauer. 2018. The European Network for the Radar surveillance of Animal Movement (ENRAM). European Geosciences Union General Assembly, Vienna. ([oral presentation](/assets/documents/Hidde_Leijnse_ENRAM_EGU2018_no_anim.pdf))
 
-Shamoun-Baranes, J, Chapman J, Alves JA, Desmet P, Dokter A, van Gasteren H, Leijnse H, Verlinden L, Bauer S. 2016. Utilizing existing earth observation networks to monitor and forecast aerial movements of animals for science and society. [British Ecological Society Annual Meeting](http://www.britishecologicalsociety.org/events/annual-event-2016/), Liverpool, UK. (Oral Presentation)
+Shamoun-Baranes, J, Chapman J, Alves JA, Desmet P, Dokter A, van Gasteren H, Leijnse H, Verlinden L, Bauer S. 2016. Utilizing existing earth observation networks to monitor and forecast aerial movements of animals for science and society. [British Ecological Society Annual Meeting](https://www.britishecologicalsociety.org/wp-content/uploads/2016/11/BES-Programme-2016-web.pdf), Liverpool, UK. (Oral Presentation)
 
 Alves, A.J., Shamoun-Baranes, J., Desmet, P., Dokter, A., Bauer, S., Heuppop, O., Koistinen, J., Leijnse, H., Liechti, F., van Gasteren, H., van den Broeck, W., Chapman, J.W. 2015. Monitoring continent-wide aerial patterns of bird movements using weather radars. BOU Proceedings – Birds in time and space: avian tracking and remote sensing. <http://www.bou.org.uk/bouproc-net/avian-tracking/alves-etal.pdf>
 
